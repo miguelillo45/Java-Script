@@ -83,3 +83,7 @@ footer{
 	background-image: url("https://img.freepik.com/vector-gratis/banner-negro-formas-geometricas-amarillas_1017-32327.jpg?w=2000");
 	background-size: cover;
 }
+
+p{
+    color:rgb(0, 0, 255)
+}
